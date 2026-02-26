@@ -2,37 +2,38 @@
     {
         "name": "Nishat Alam",
         "role": "Lead Developer & Team Leader",
-        "photo": "images/nishat.png",
+        "photo": "nishat.png",
         "portfolio": "#"
     },
     {
         "name": "Kanij Fatima",
         "role": "Consept Designer",
-        "photo": "images/happy.jpg",
+        "photo": "happy.jpg",
         "portfolio": "#"
     },
     {
         "name": "Rahidul Islam",
         "role": "Graphics Designer & Visualizer",
-        "photo": "images/tanim.jpg",
+        "photo": "tanim.jpg",
         "portfolio": "#"
     },
     {
         "name": "Jahid Hasan",
         "role": "Frontend Developer",
-        "photo": "images/jahid.png",
+        "photo": "jahid.png",
         "portfolio": "#"
     },
     {
         "name": "Robiul Hasan",
         "role": "Backend Developer",
-        "photo": "images/robiul.jpeg",
+        "photo": "robiul.jpeg",
         "portfolio": "#"
     },
     {
         "name": "Jubayer Ahmed",
         "role": "Content Writer & Video Editor",
-        "photo": "images/jubayer.png",
+        "photo": "jubayer.png",
         "portfolio": "#"
     }
+
 ]
