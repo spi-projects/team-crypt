@@ -1,46 +1,89 @@
 [
     {
         "name": "Nishat Alam",
-        "role": "Lead Developer & Team Leader",
+        "role": "872170 C",
         "photo": "nishat.png",
         "portfolio": "#"
     },
     {
         "name": "Kanij Fatima",
-        "role": "Consept Designer",
+        "role": "872143",
         "photo": "happy.jpg",
         "portfolio": "#"
     },
     {
         "name": "Rahidul Islam",
-        "role": "Graphics Designer & Visualizer",
+        "role": "872140",
         "photo": "tanim.jpg",
         "portfolio": "#"
     },
     {
         "name": "Jahid Hasan",
-        "role": "Frontend Developer",
+        "role": "872145",
         "photo": "jahid.png",
         "portfolio": "#"
     },
     {
         "name": "Robiul Hasan",
-        "role": "Backend Developer",
+        "role": "872156",
         "photo": "robiul.jpeg",
         "portfolio": "#"
     },
     {
         "name": "Jubayer Ahmed",
-        "role": "Content Writer & Video Editor",
+        "role": "872182",
         "photo": "jubayer.png",
         "portfolio": "#"
-    }
-,
+    },
     {
         "name": "Chinmoy Datto",
-        "role": "Designer",
+        "role": "872197",
+        "photo": "image.png",
+        "portfolio": "#"
+    },
+    {
+        "name": "Hikmat Elahi",
+        "role": "872200",
+        "photo": "image.png",
+        "portfolio": "#"
+    },
+    {
+        "name": "Amimul Islam",
+        "role": "872204",
+        "photo": "image.png",
+        "portfolio": "#"
+    },
+    {
+        "name": "Sabbir Ahmed",
+        "role": "872190",
+        "photo": "image.png",
+        "portfolio": "#"
+    }
+    ,
+    {
+        "name": "Owaki Mohan",
+        "role": "872202",
+        "photo": "image.png",
+        "portfolio": "#"
+    },
+    {
+        "name": "Shahadat Hossain",
+        "role": "872212",
+        "photo": "image.png",
+        "portfolio": "#"
+    },
+    {
+        "name": "Jamiyatul Jannat",
+        "role": "872170",
+        "photo": "image.png",
+        "portfolio": "#"
+    },
+    {
+        "name": "Ashraf",
+        "role": "872187",
         "photo": "image.png",
         "portfolio": "#"
     }
 ]
+
 
