@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Progress Tracker",
+        "description": "A cutting-edge solution for students to track their progress.",
+        "image": "images/progress.png",
+        "link": "https://spi-projects.github.io/progress/"
+    },
+    {
+        "name": "Weather Checker",
+        "description": "A simple and efficient weather checker to check the weather.",
+        "image": "images/weather.png",
+        "link": "https://spi-projects.github.io/weather/"
+    },
+    {
+        "name": "Attendence Taker",
+        "description": "A simple and efficient attendence taker.",
+        "image": "images/attendence.png",
+        "link": "https://spi-projects.github.io/attendence/"
+    }
+]

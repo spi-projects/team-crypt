@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto+Slab:wght@100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <ul class="nav-itm">
+            <a href="#home">
+                <li class="links"><i class="icn fa-regular fa-house"></i></li>
+            </a>
+            <a href="#projects">
+                <li class="links"><i class="icn fa-brands fa-trello"></i></li>
+            </a>
+            <a href="#team">
+                <li class="links"><i class="icn fa-solid fa-users"></i></li>
+            </a>
+            <a href="#abtus">
+                <li class="links"><i class="icn fa-solid fa-circle-info"></i></li>
+            </a>
+        </ul>
+    </nav>
+    <header id="home">
+        <div class="hero-con">
+            <h1 class="head-line">Team Crypt</h1>
+            <p class="sub-head">We are a group of creators turning complex problems into elegant, interactive solutions.
+                From our first lines of code to our latest deployments, this is how we are building the future of the
+                web.</p>
+            <div class="btn-con">
+                <a href="https://docs.google.com/document/d/1ZoDVDoBJm0s7n9E9rMrXow5JbYdxhA5zHveneF3P1Kk/edit?usp=sharing"
+                    target="_blank">
+                    <button id="plan" class="hero-btn">Study plan</button>
+                </a>
+                <a href="https://docs.google.com/document/d/1aqWdl9K7S6D5QoAUvik0CvJqhtp0Pp3E6fpPcU6c89g/edit?usp=sharing"
+                    target="_blank">
+                    <button id="resources" class="hero-btn">Resources</button>
+                </a>
+            </div>
+        </div>
+    </header>
+    <section class="pjt-sec" id="projects">
+        <h1 class="head-line other-head">Our Projects</h1>
+        <div class="pjt-con" id="project-container">
+            <!-- Dynamic project cards will be injected here -->
+        </div>
+    </section>
+    <section id="team" class="team-sec">
+        <h1 class="head-line other-head">Our Team</h1>
+        <div class="team-con" id="team-container">
+            <!-- Dynamic team cards will be injected here -->
+        </div>
+    </section>
+    <section id="abtus">
+        <h1 class="head-line other-head">About Us</h1>
+        <div class="abt-con">
+            <div class="abt-card">
+                <h3 class="abt-head">Our Vision</h3>
+                <p class="abt-des">Our vision is to provide supportive environment to students and prepare them for the
+                    future. We also aim to provide a safe and supportive learning environment for our students. </p>
+                <a href=""><button class="hero-btn">learn more</button></a>
+            </div>
+            <div class="abt-card">
+                <h3 class="abt-head">Our Mission</h3>
+                <p class="abt-des">Our mission is to provide quality education to students and prepare them for the
+                    future. We also aim to provide a safe and supportive learning environment for our students. </p>
+                <a href=""><button class="hero-btn">learn more</button></a>
+            </div>
+            <div class="abt-card">
+                <h3 class="abt-head">About Our Inistitute</h3>
+                <p class="abt-des">Our Inistitute name is Sylhet Polytechnic Institute, located in Sylhet, Bangladesh.
+                    It is a government polytechnic institute that offers diploma courses in various engineering and
+                    technology fields. </p>
+                <a href=""><button class="hero-btn">learn more</button></a>
+            </div>
+
+
+        </div>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
